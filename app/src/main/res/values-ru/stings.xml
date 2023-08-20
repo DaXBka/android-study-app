@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="topbar_title">Меню</string>
+    <string name="drawer_home">Домашняя</string>
+    <string name="drawer_card">Создать карточку</string>
+    <string name="drawer_quiz">Квиз</string>
+    <string name="drawer_settings">Настройки</string>
+    <string name="cardscreen_input_1">Новое слово</string>
+    <string name="cardscreen_input_2">Перевод</string>
+    <string name="cardscreen_title">Добавьте карточку!</string>
+    <string name="cardscreen_btn">Создать</string>
+    <string name="mainscreen_title">Ваши карточки</string>
+    <string name="mainscreen_nocards_title">Ой, у вас нет карточек</string>
+    <string name="mainscreen_nocards_text">Новые карточки можно создать в разделе \"Создать карточку\"</string>
+    <string name="mainscreen_nocards_btn">Создать карточку</string>
+    <string name="cardscreen_toast_create">Карточка была добавлена!</string>
+    <string name="settingsscreen_theme">Цветовая тема</string>
+    <string name="quizscreen_card_button">Подтвердить</string>
+    <string name="quizscreen_card_title">Ваш ответ:</string>
+    <string name="quizscreen_card_label">Ответ</string>
+    <string name="quizscreen_end_title">На этом всё!</string>
+    <string name="quizscreen_end_button">Заново</string>
+    <string name="quizscreen_toast_correct">Правильный ответ!</string>
+    <string name="quizscreen_toast_incorrect">Неправильный ответ</string>
+</resources>
